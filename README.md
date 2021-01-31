@@ -16,6 +16,10 @@ Languages and Tools:
 
 <img alt="GitLab" height=33px src="assets/gitlab.png" />
 
+<img alt="microsoft-windows" height=26px src="assets/microsoft-windows-22.svg" />
+<img alt="Linux" height=28px src="assets/linux-tux.svg" />
+<img alt="Ubuntu" height=26px src="assets/ubuntu-4.svg" />
+
 <img alt="Terminal" height=25px src="assets/terminal.png" />
 
 <img alt="Visual Studio Code" height=25px src="assets/vs_code.png" />
@@ -78,3 +82,4 @@ Library:
 <img alt="Torch" height=26px src="assets/torch.png" />
 <img alt="Tensorboard" height=33px src="assets/tensorboard-logo-social.png" />
 <img alt="Detectron2" height=25px src="assets/detectron.svg" />
+<img alt="slack" height=25px src="assets/slack-new-logo.svg" />
