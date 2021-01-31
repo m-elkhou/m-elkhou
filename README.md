@@ -9,53 +9,72 @@ You can [contact me](mailto:m.elkhou@hotmail@.com) if you think we could work to
 
 Languages and Tools:
 
-<img align="left" alt="Git" height=27px src="assets/Git_icon.svg.png" />
+<div align="left" >
+<img alt="Git" height=27px src="assets/Git_icon.svg.png" />
 
-<img align="left" alt="GitHub" height=27px src="assets/github.svg" />
+<img alt="GitHub" height=27px src="assets/github.svg" />
 
-<img align="left" alt="GitLab" height=33px src="assets/gitlab.png" />
+<img alt="GitLab" height=33px src="assets/gitlab.png" />
 
-<img align="left" alt="Terminal" height=25px src="assets/terminal.png" />
+<img alt="Terminal" height=25px src="assets/terminal.png" />
 
-<img align="left" alt="Visual Studio Code" height=25px src="assets/vs_code.png" />
+<img alt="Visual Studio Code" height=25px src="assets/vs_code.png" />
 
-<img align="left" alt="Docker" height=27px src="assets/docker.svg" />
+<img alt="Docker" height=27px src="assets/docker.svg" />
 
-<img align="left" alt="Python" height=26px src="assets/python.svg" />
+<img alt="Python" height=26px src="assets/python.svg" />
 
-<img align="left" alt="Jupyter Notebook" height=26px src="assets/jupyter.svg" />
+<img alt="R" height=24px src="assets/r.svg" />
 
-<img align="left" alt="SQL" height=26px src="assets/pngfuel.com.png" />
+<img alt="Jupyter Notebook" height=26px src="assets/jupyter.svg" />
 
-<img align="left" alt="My SQL" height=26px src="assets/mysql-official.svg" />
+<img alt="Google Colab" width="60px" src="assets/colab.png" />
 
-<img align="left" alt="Postgresql" height=26px src="assets/Postgresql_elephant.svg" />
+<img alt="SQL" height=26px src="assets/pngfuel.com.png" />
 
-<img align="left" alt="java" width="20px" src="assets/java.svg" />
+<img alt="Oracle" height=12px src="assets/oracle-6.svg" />
 
-<img align="left" alt="PHP" height=24px src="assets/new-php-logo.svg" />
+<img alt="My SQL" height=26px src="assets/mysql-official.svg" />
 
-<img align="left" alt="HTML" width="26px" src="assets/html.png" />
+<img alt="Postgresql" height=26px src="assets/Postgresql_elephant.svg" />
 
-<img align="left" alt="CSS" width="26px" src="assets/css.png" />
+<img alt="C" height=26px src="assets/cpp.svg" />
 
+<img alt="C++" height=26px src="assets/c.svg" />
+
+<img alt="java" width="20px" src="assets/java.svg" />
+
+<img alt="JEE" width="60px" src="assets/jee.svg" />
+
+<img alt="PHP" height=24px src="assets/new-php-logo.svg" />
+
+<img alt="HTML" width="26px" src="assets/html.png" />
+
+<img alt="CSS" width="26px" src="assets/css.png" />
+
+<img alt="javascript" width="19px" src="assets/javascript-4.svg" />
+
+<img alt="Android" height=26px src="assets/android.svg" />
+<img alt="arduino" height=26px src="assets/arduino.svg" />
+<img alt="raspberry-pi" height=26px src="assets/raspberry-pi.svg" />
+<img alt="power-bi" height=26px src="assets/power-bi.svg" />
 </br>
-</br>
+</div>
 
 Library:
 
-<img align="left" alt="Numpy" height=26px src="assets/numpy.png" />
+<img alt="Numpy" height=26px src="assets/numpy.png" />
 
-<img align="left" alt="Pandas" height=26px src="assets/pandas.png" />
+<img alt="Pandas" height=28px src="assets/pandas.png" />
 
-<img align="left" alt="Matplotlib" height=26px src="assets/Matplotlib.svg" />
+<img alt="Matplotlib" height=25px src="assets/Matplotlib.svg" />
 
-<img align="left" alt="Keras" height=25px src="assets/keras.svg.png" />
-<img align="left" alt="Tensorflow" height=26px src="assets/Tensorflow_logo.svg.png" />
-<img align="left" alt="Torch" height=26px src="assets/torch.png" />
-<img align="left" alt="Tensorboard" height=33px src="assets/tensorboard-logo-social.png" />
+<img alt="scikit_learn" height=26px src="assets/scikit_learn.svg" />
 
+<img alt="SciPy" height=26px src="assets/scipy.png" />
 
-<img align="left" alt="Tensorboard" height=26px src="assets/tensorboard-logo-social.png" />
-<img align="left" alt="Tensorboard" height=26px src="assets/tensorboard-logo-social.png" />
-<img align="left" alt="Tensorboard" height=26px src="assets/tensorboard-logo-social.png" />
+<img alt="Keras" height=25px src="assets/keras.svg.png" />
+<img alt="Tensorflow" height=26px src="assets/Tensorflow_logo.svg.png" />
+<img alt="Torch" height=26px src="assets/torch.png" />
+<img alt="Tensorboard" height=33px src="assets/tensorboard-logo-social.png" />
+<img alt="Detectron2" height=25px src="assets/detectron.svg" />
