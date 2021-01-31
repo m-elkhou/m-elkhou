@@ -6,3 +6,56 @@ You can [contact me](mailto:m.elkhou@hotmail@.com) if you think we could work to
 
 
 ![Mohammed's github stats](https://github-readme-stats.vercel.app/api?username=m-elkhou&show_icons=true&theme=vision-friendly-dark)
+
+Languages and Tools:
+
+<img align="left" alt="Git" height=27px src="assets/Git_icon.svg.png" />
+
+<img align="left" alt="GitHub" height=27px src="assets/github.svg" />
+
+<img align="left" alt="GitLab" height=33px src="assets/gitlab.png" />
+
+<img align="left" alt="Terminal" height=25px src="assets/terminal.png" />
+
+<img align="left" alt="Visual Studio Code" height=25px src="assets/vs_code.png" />
+
+<img align="left" alt="Docker" height=27px src="assets/docker.svg" />
+
+<img align="left" alt="Python" height=26px src="assets/python.svg" />
+
+<img align="left" alt="Jupyter Notebook" height=26px src="assets/jupyter.svg" />
+
+<img align="left" alt="SQL" height=26px src="assets/pngfuel.com.png" />
+
+<img align="left" alt="My SQL" height=26px src="assets/mysql-official.svg" />
+
+<img align="left" alt="Postgresql" height=26px src="assets/Postgresql_elephant.svg" />
+
+<img align="left" alt="java" width="20px" src="assets/java.svg" />
+
+<img align="left" alt="PHP" height=24px src="assets/new-php-logo.svg" />
+
+<img align="left" alt="HTML" width="26px" src="assets/html.png" />
+
+<img align="left" alt="CSS" width="26px" src="assets/css.png" />
+
+</br>
+</br>
+
+Library:
+
+<img align="left" alt="Numpy" height=26px src="assets/numpy.png" />
+
+<img align="left" alt="Pandas" height=26px src="assets/pandas.png" />
+
+<img align="left" alt="Matplotlib" height=26px src="assets/Matplotlib.svg" />
+
+<img align="left" alt="Keras" height=25px src="assets/keras.svg.png" />
+<img align="left" alt="Tensorflow" height=26px src="assets/Tensorflow_logo.svg.png" />
+<img align="left" alt="Torch" height=26px src="assets/torch.png" />
+<img align="left" alt="Tensorboard" height=33px src="assets/tensorboard-logo-social.png" />
+
+
+<img align="left" alt="Tensorboard" height=26px src="assets/tensorboard-logo-social.png" />
+<img align="left" alt="Tensorboard" height=26px src="assets/tensorboard-logo-social.png" />
+<img align="left" alt="Tensorboard" height=26px src="assets/tensorboard-logo-social.png" />
