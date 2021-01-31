@@ -67,6 +67,7 @@ Languages and Tools:
 
 Library:
 
+<div align="left" >
 <img alt="Numpy" height=26px src="assets/numpy.png" />
 
 <img alt="Pandas" height=28px src="assets/pandas.png" />
@@ -83,3 +84,4 @@ Library:
 <img alt="Tensorboard" height=33px src="assets/tensorboard-logo-social.png" />
 <img alt="Detectron2" height=25px src="assets/detectron.svg" />
 <img alt="slack" height=25px src="assets/slack-new-logo.svg" />
+</div>
