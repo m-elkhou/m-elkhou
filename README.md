@@ -1,6 +1,6 @@
 ### Hi there 🤗
 
-<img src="https://raw.githubusercontent.com/m-elkhou/m-elkhou/main/assets/m.elkhou.svg" align="right" width="200">
+<!-- <img src="https://raw.githubusercontent.com/m-elkhou/m-elkhou/main/assets/m.elkhou.svg" align="right" width="200"> -->
 
 Welcome to my GitHub. My name is [**Mohammed EL-KHOU**](https://m-elkhou.github.io/) and I'm a Data Scientist and Ph.D. student at [Sidi Mohamed ben Abdellah University](http://www.usmba.ac.ma/) (`USMBA`) [Faculty of Sciences Dhar El Mahraz](http://www.fsdmfes.ac.ma/) (`FSDM`), Fez - Morocco, under the supervision of [Prof. Jamal RIFFI](https://scholar.google.com/citations?user=DPK9m_YAAAAJ&hl). Before that, I obtained my Master degree from [`FSDM` - `USMBA`](http://www.fsdmfes.ac.ma/). My major research interest lies in the intersection of *Data Sciences* and *Computer Vision*, as well as *Natural Language Processing*.
 
