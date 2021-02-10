@@ -1,5 +1,7 @@
 ### Hi there 🤗
 
+<img src="https://raw.githubusercontent.com/m-elkhou/m-elkhou/main/assets/m.elkhou.svg" align="right" width="200">
+
 Welcome to my GitHub. My name is [**Mohammed EL-KHOU**](https://m-elkhou.github.io/) and I'm a Data Scientist and Ph.D. student at [Sidi Mohamed ben Abdellah University](http://www.usmba.ac.ma/) (`USMBA`) [Faculty of Sciences Dhar El Mahraz](http://www.fsdmfes.ac.ma/) (`FSDM`), Fez - Morocco, under the supervision of [Prof. Jamal RIFFI](https://scholar.google.com/citations?user=DPK9m_YAAAAJ&hl). Before that, I obtained my Master degree from [`FSDM` - `USMBA`](http://www.fsdmfes.ac.ma/). My major research interest lies in the intersection of *Data Sciences* and *Computer Vision*, as well as *Natural Language Processing*.
 
 You can [contact me](mailto:m.elkhou@hotmail@.com) if you think we could work together on an article or a project, or if you have any question/remark. If you would like to get to know more about me and my projects, feel free to check out [my resume](https://drive.google.com/file/d/11Rcy_J3zfErbsgQcAbQGsLGP6zWf-wMf/view) or [my page](https://m-elkhou.github.io/).
@@ -7,8 +9,10 @@ You can [contact me](mailto:m.elkhou@hotmail@.com) if you think we could work to
 
 ![Mohammed's github stats](https://github-readme-stats.vercel.app/api?username=m-elkhou&show_icons=true&theme=vision-friendly-dark)
 
-Languages and Tools:
-
+</br>
+<details open>
+<summary>Languages and Tools</summary>
+  
 <div align="left" >
 <img alt="Git" height=27px src="assets/Git_icon.svg.png" />
 
@@ -64,8 +68,11 @@ Languages and Tools:
 <img alt="power-bi" height=26px src="assets/power-bi.svg" />
 </br>
 </div>
+</details>
 
-Library:
+</br>
+<details open>
+<summary>Library</summary>
 
 <div align="left" >
 <img alt="Numpy" height=26px src="assets/numpy.png" />
@@ -86,3 +93,17 @@ Library:
 <img alt="slack" height=25px src="assets/slack-new-logo.svg" />
 <img alt="Flask" height=30px src="assets/flask.svg" />
 </div>
+</details>
+
+<br>
+<details>
+<summary>Workstation</summary>
+
+<p>
+  <a href="https://www.archlinux.org/" target="_blank"><img src="https://img.shields.io/badge/arch%20linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://kde.org/" target="_blank"><img src="https://img.shields.io/badge/kde%20plasma-%230095D5.svg?&style=for-the-badge&logo=kde&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/intel-core%20i7-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/nvidia-gt-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/></a>
+</p>
+
+</details>
