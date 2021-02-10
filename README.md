@@ -13,7 +13,6 @@ You can [contact me](mailto:m.elkhou@hotmail@.com) if you think we could work to
 
 <details open>
 <summary>Languages and Tools</summary>
-  
 <div align="left" >
 <img alt="Git" height=27px src="assets/Git_icon.svg.png" />
 <img alt="GitHub" height=27px src="assets/github.svg" />
@@ -44,7 +43,6 @@ You can [contact me](mailto:m.elkhou@hotmail@.com) if you think we could work to
 <img alt="arduino" height=26px src="assets/arduino.svg" />
 <img alt="raspberry-pi" height=26px src="assets/raspberry-pi.svg" />
 <img alt="power-bi" height=26px src="assets/power-bi.svg" />
-</br>
 </div>
 </details>
 
@@ -52,7 +50,6 @@ You can [contact me](mailto:m.elkhou@hotmail@.com) if you think we could work to
 
 <details open>
 <summary>Library</summary>
-
 <div align="left" >
 <img alt="Numpy" height=26px src="assets/numpy.png" />
 <img alt="Pandas" height=28px src="assets/pandas.png" />
@@ -66,19 +63,17 @@ You can [contact me](mailto:m.elkhou@hotmail@.com) if you think we could work to
 <img alt="Detectron2" height=25px src="assets/detectron.svg" />
 <img alt="slack" height=25px src="assets/slack-new-logo.svg" />
 <img alt="Flask" height=30px src="assets/flask.svg" />
+</div>
 </details>
-</br>
 
 ---
 
 <details>
 <summary>Workstation</summary>
-
 <p>
   <a href="https://www.archlinux.org/" target="_blank"><img src="https://img.shields.io/badge/arch%20linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge"/></a>
   <a href="https://kde.org/" target="_blank"><img src="https://img.shields.io/badge/kde%20plasma-%230095D5.svg?&style=for-the-badge&logo=kde&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/intel-core%20i7-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/nvidia-gt-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/></a>
 </p>
-
 </details>
