@@ -20,45 +20,7 @@ You can [contact me](mailto:m.elkhou@hotmail@.com) if you think we could work to
 
 ![m-elkhou](https://komarev.com/ghpvc/?username=m-elkhou)
 
-<!-- ---
-
-<details open>
-<summary>Languages and Tools</summary>
-<div align="left" >
-<img alt="Git" height=27px src="assets/Git_icon.svg.png" />
-<img alt="GitHub" height=27px src="assets/github.svg" />
-<img alt="GitLab" height=33px src="assets/gitlab.png" />
-<img alt="microsoft-windows" height=26px src="assets/microsoft-windows-22.svg" />
-<img alt="Linux" height=30px src="assets/Tux.svg" />
-<img alt="Ubuntu" height=26px src="assets/ubuntu-4.svg" />
-<img alt="Terminal" height=25px src="assets/terminal.png" />
-<img alt="Visual Studio Code" height=25px src="assets/vs_code.png"/>
-<img alt="Docker" height=27px src="assets/docker.svg" />
-<img alt="Python" height=26px src="assets/python.svg" />
-<img alt="R" height=24px src="assets/r.svg" />
-<img alt="Jupyter Notebook" height=26px src="assets/jupyter.svg" />
-<img alt="Google Colab" width="60px" src="assets/colab.png" />
-<img alt="SQL" height=26px src="assets/pngfuel.com.png" />
-<img alt="Oracle" height=12px src="assets/oracle-6.svg" />
-<img alt="My SQL" height=26px src="assets/mysql-official.svg" />
-<img alt="Postgresql" height=26px src="assets/Postgresql_elephant.svg" />
-<img alt="C" height=26px src="assets/cpp.svg" />
-<img alt="C++" height=26px src="assets/c.svg" />
-<img alt="java" width="20px" src="assets/java.svg" />
-<img alt="JEE" width="60px" src="assets/jee.svg" />
-<img alt="PHP" height=24px src="assets/new-php-logo.svg" />
-<img alt="HTML" width="26px" src="assets/html.png" />
-<img alt="CSS" width="26px" src="assets/css.png" />
-<img alt="javascript" width="19px" src="assets/javascript-4.svg" />
-<img alt="Android" height=26px src="assets/android.svg" />
-<img alt="arduino" height=26px src="assets/arduino.svg" />
-<img alt="raspberry-pi" height=26px src="assets/raspberry-pi.svg" />
-<img alt="power-bi" height=26px src="assets/power-bi.svg" />
-</div>
-</details> -->
-
 ---
-
 
 <table>
   <thead>
@@ -114,7 +76,7 @@ You can [contact me](mailto:m.elkhou@hotmail@.com) if you think we could work to
     </tr><tr>
     <td><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" width="40" height="40"/></td> 
-    <td><img src="assets/pandas.svg" alt="Pandas" width="40" height="40"/></td> 
+    <td><img src="assets/pandas.svg" alt="Pandas" width="60" height="40"/></td> 
     <td><img src="https://raw.githubusercontent.com/valohai/ml-logos/master/matplotlib.svg" alt="Matplotlib" width="60" height="40"/></td> 
     <td><img src="assets/scikit_learn.svg" alt="scikit_learn" width="60" height="40"/></td> 
     <td><img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg" alt="SciPy" width="40" height="40"/></td> 
@@ -127,6 +89,52 @@ You can [contact me](mailto:m.elkhou@hotmail@.com) if you think we could work to
   </tr>
 </table>
 
+<details>
+<summary>Workstation</summary>
+<p>
+  <a href="https://www.archlinux.org/" target="_blank"><img src="https://img.shields.io/badge/arch%20linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://kde.org/" target="_blank"><img src="https://img.shields.io/badge/kde%20plasma-%230095D5.svg?&style=for-the-badge&logo=kde&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/intel-core%20i7-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/nvidia-gt-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/></a>
+</p>
+</details>
+
+<!-- ---
+
+<details open>
+<summary>Languages and Tools</summary>
+<div align="left" >
+<img alt="Git" height=27px src="assets/Git_icon.svg.png" />
+<img alt="GitHub" height=27px src="assets/github.svg" />
+<img alt="GitLab" height=33px src="assets/gitlab.png" />
+<img alt="microsoft-windows" height=26px src="assets/microsoft-windows-22.svg" />
+<img alt="Linux" height=30px src="assets/Tux.svg" />
+<img alt="Ubuntu" height=26px src="assets/ubuntu-4.svg" />
+<img alt="Terminal" height=25px src="assets/terminal.png" />
+<img alt="Visual Studio Code" height=25px src="assets/vs_code.png"/>
+<img alt="Docker" height=27px src="assets/docker.svg" />
+<img alt="Python" height=26px src="assets/python.svg" />
+<img alt="R" height=24px src="assets/r.svg" />
+<img alt="Jupyter Notebook" height=26px src="assets/jupyter.svg" />
+<img alt="Google Colab" width="60px" src="assets/colab.png" />
+<img alt="SQL" height=26px src="assets/pngfuel.com.png" />
+<img alt="Oracle" height=12px src="assets/oracle-6.svg" />
+<img alt="My SQL" height=26px src="assets/mysql-official.svg" />
+<img alt="Postgresql" height=26px src="assets/Postgresql_elephant.svg" />
+<img alt="C" height=26px src="assets/cpp.svg" />
+<img alt="C++" height=26px src="assets/c.svg" />
+<img alt="java" width="20px" src="assets/java.svg" />
+<img alt="JEE" width="60px" src="assets/jee.svg" />
+<img alt="PHP" height=24px src="assets/new-php-logo.svg" />
+<img alt="HTML" width="26px" src="assets/html.png" />
+<img alt="CSS" width="26px" src="assets/css.png" />
+<img alt="javascript" width="19px" src="assets/javascript-4.svg" />
+<img alt="Android" height=26px src="assets/android.svg" />
+<img alt="arduino" height=26px src="assets/arduino.svg" />
+<img alt="raspberry-pi" height=26px src="assets/raspberry-pi.svg" />
+<img alt="power-bi" height=26px src="assets/power-bi.svg" />
+</div>
+</details> -->
 <!-- <details open>
 <summary>Library</summary>
 <div align="left" >
@@ -144,13 +152,3 @@ You can [contact me](mailto:m.elkhou@hotmail@.com) if you think we could work to
 <img alt="Flask" height=30px src="assets/flask.svg" />
 </div>
 </details> -->
-
-<details>
-<summary>Workstation</summary>
-<p>
-  <a href="https://www.archlinux.org/" target="_blank"><img src="https://img.shields.io/badge/arch%20linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://kde.org/" target="_blank"><img src="https://img.shields.io/badge/kde%20plasma-%230095D5.svg?&style=for-the-badge&logo=kde&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/intel-core%20i7-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/nvidia-gt-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/></a>
-</p>
-</details>
